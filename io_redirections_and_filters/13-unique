@@ -1,2 +1,2 @@
 #!/bin/bash 
-uniq -u | head 
+uniq -u | head list_1
